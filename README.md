@@ -3,13 +3,13 @@
 <table>
   <tr>
       <td>
-        <img src="./images/octocat-1.png" width="100px" />
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px" />
       </td>
     <td>
-        <img src="./images/msft-logo-1.png" width="100px" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" width="100px" />
       </td>
     <td>
-        <img src="./images/azure-boards-1.png" width="100px" />
+        <img src="https://store-images.s-microsoft.com/image/apps.45766.90bc905c-7e74-44bd-8e35-b6a66582227b.70681edc-518a-48c0-b3d1-3793746b3be4.4b202b3e-a046-4a2f-8d63-ccd79995f2bd.png" width="100px" />
       </td>
   </tr>
 </table>
@@ -30,12 +30,4 @@
 - [LinkedIn](https://www.linkedin.com/in/danhellem/)
 - [Instagram](https://www.instagram.com/danhellem/)
 
-### 🐶 My buddy pictures
 
-<table border="0" style="border-style: none">
-  <tr>
-    <td>
-      <img src="./images/dogs/dog-1.png" width="150px" />
-    </td>
-  </tr>
-</table
