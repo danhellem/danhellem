@@ -32,7 +32,7 @@
 
 ### 🐶 My buddy pictures
 
-<table>
+<table border="0" style="border-style: none">
   <tr>
     <td>
       <img src="./images/dogs/dog-1.png" width="150px" />
