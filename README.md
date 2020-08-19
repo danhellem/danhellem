@@ -3,13 +3,13 @@
 <table>
   <tr>
       <td>
-        <img src="images/octocat-1.png" width="100px" />
+        <img src="https://github.com/danhellem/danhellem/tree/master/images/octocat-1.png" width="100px" />
       </td>
     <td>
-        <img src="images/msft-logo-1.png" width="100px" />
+        <img src="https://github.com/danhellem/danhellem/tree/master/images/msft-logo-1.png" width="100px" />
       </td>
     <td>
-        <img src="images/azure-boards-1.png" width="100px" />
+        <img src="https://github.com/danhellem/danhellem/tree/master/images/azure-boards-1.png" width="100px" />
       </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 <table border="0" style="border-style: none">
   <tr>
     <td>
-      <img src="images/dogs/dog-1.png" width="150px" />
+      <img src="https://github.com/danhellem/danhellem/tree/master/images/dogs/dog-1.png" width="150px" />
     </td>
   </tr>
 </table
