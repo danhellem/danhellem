@@ -1,4 +1,17 @@
-### ⚒ Currently working at ...
+### ⚒ Currently working in Microsoft Azure IoT on Digitial Twins
+
+<table>
+  <tr>
+      <td>
+        <img src="https://docs.microsoft.com/answers/topics/25491/icon.html?t=168451" width="100px" />
+      </td>
+    <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" width="100px" />
+      </td>    
+  </tr>
+</table>
+
+### 💻 Previously worked on ...
 
 <table>
   <tr>
