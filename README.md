@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-### 💻 Previously worked on ...
+### 💻 Previously worked on Azure DevOps at Microsoft and GitHub
 
 <table>
   <tr>
