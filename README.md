@@ -29,8 +29,8 @@
 
 ### 👯 My most active work related projects are
 
-- [Sync GitHub issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item)
-- [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item)
+- [Sync GitHub issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/github-issues-to-azure-devops)
+- [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
 - [Azure DevOps Process CLI](https://github.com/danhellem/azure-devops-process-cli)
 
 ### 🌱 My most active personal projects are
