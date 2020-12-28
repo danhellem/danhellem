@@ -29,7 +29,7 @@
 
 ### 👯 My most active work related projects are
 
-- [Getting Started with Azure Digital Twins and the AZDevKit](https://github.com/danhellem/adt-getting-started-with-iotdevkit)
+- [Getting Started with Azure Digital Twins with the IoT AZDevKit](https://github.com/danhellem/adt-getting-started-with-iotdevkit)
 - [Sync GitHub issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/github-issues-to-azure-devops)
 - [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
 - [Azure DevOps Process CLI](https://github.com/danhellem/azure-devops-process-cli)
