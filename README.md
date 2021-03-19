@@ -37,8 +37,7 @@
 
 ### 🌱 My most active personal projects are
 
-- [uplandreviews.com](https://github.com/uplandprojects/uplandreviews.com)
-- Several other private repos 😉
+- Many private repos 😉
 
 ### 🔭You can find me at
 
