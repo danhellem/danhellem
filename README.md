@@ -35,10 +35,6 @@
 - [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
 - [Azure DevOps Process CLI](https://github.com/danhellem/azure-devops-process-cli)
 
-### 🌱 My most active personal projects are
-
-- Many private repos 😉
-
 ### 🔭You can find me at
 
 - [LinkedIn](https://www.linkedin.com/in/danhellem/)
