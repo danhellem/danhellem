@@ -39,6 +39,5 @@
 ### 🔭 You can find me at
 
 - [LinkedIn](https://www.linkedin.com/in/danhellem/)
-- [Instagram](https://www.instagram.com/danhellem/)
 
 
