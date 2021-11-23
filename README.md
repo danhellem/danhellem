@@ -1,4 +1,4 @@
-### ⚒ Currently working in Microsoft Azure IoT SDKs for Device Development
+### ⚒ Currently working in Microsoft Azure IoT SDKs for Device Developers
 
 <table>
   <tr>
