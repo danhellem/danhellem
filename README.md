@@ -1,4 +1,4 @@
-### ⚒ Currently working in Microsoft Azure IoT SDKs for Device Developers
+### ⚒ Currently working in Microsoft Azure DevOps
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-### 💻 Previously worked on Azure Digital Twins, Azure DevOps, and GitHub
+### 💻 Previously worked on Azure Digital Twins, Azure IoT Device SDKs, and GitHub
 
 <table>
   <tr>
@@ -32,10 +32,10 @@
 - [Sync GitHub issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/github-issues-to-azure-devops)
 - [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
 - [Azure DevOps Process CLI](https://github.com/danhellem/azure-devops-process-cli)
-- [IoT Device Samples (work in progress)](https://github.com/danhellem/danhellem-iot-samples)
 
 ### 🗃️ Archived work projects
 
+- [IoT Device Samples (work in progress)](https://github.com/danhellem/danhellem-iot-samples)
 - [Code Examples for a Azure Digital Twins Single-page Application](https://github.com/danhellem/azure-digital-twins-spa-getting-started)
 - [Azure Digital Twins Postman Samples](https://github.com/microsoft/azure-digital-twins-postman-samples)
 - [Getting Started with Azure Digital Twins with the IoT AZDevKit](https://github.com/danhellem/adt-getting-started-with-iotdevkit)
