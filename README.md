@@ -38,7 +38,7 @@
 
 ### 🗃️ Archived work projects
 
-- [IoT Device Samples (work in progress)](https://github.com/danhellem/danhellem-iot-samples)
+- [IoT Device Samples](https://github.com/danhellem/danhellem-iot-samples)
 - [Code Examples for a Azure Digital Twins Single-page Application](https://github.com/danhellem/azure-digital-twins-spa-getting-started)
 - [Azure Digital Twins Postman Samples](https://github.com/microsoft/azure-digital-twins-postman-samples)
 - [Getting Started with Azure Digital Twins with the IoT AZDevKit](https://github.com/danhellem/adt-getting-started-with-iotdevkit)
