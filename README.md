@@ -40,6 +40,7 @@
 ### 🦉Personal projects
 
 - [My App - Indentity Service](https://github.com/danhellem/myapp-identityservice)
+- [My App - Admin Service](https://github.com/danhellem/myapp-adminservice)
 - [My App - Web UI](https://github.com/danhellem/myapp-web)
 
 ### 🔭 You can find me at
