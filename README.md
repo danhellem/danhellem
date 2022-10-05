@@ -35,13 +35,7 @@
 - [Sync GitHub issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/github-issues-to-azure-devops)
 - [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
 - [Azure DevOps Process CLI](https://github.com/danhellem/azure-devops-process-cli)
-
-### 🗃️ Archived work projects
-
-- [IoT Device Samples](https://github.com/danhellem/danhellem-iot-samples)
-- [Code Examples for a Azure Digital Twins Single-page Application](https://github.com/danhellem/azure-digital-twins-spa-getting-started)
-- [Azure Digital Twins Postman Samples](https://github.com/microsoft/azure-digital-twins-postman-samples)
-- [Getting Started with Azure Digital Twins with the IoT AZDevKit](https://github.com/danhellem/adt-getting-started-with-iotdevkit)
+- [Work item batch update samples](https://github.com/danhellem/workitem-batch-update-samples)
 
 ### 🦉Personal projects
 
