@@ -34,7 +34,7 @@
 
 - [Sync GitHub issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/github-issues-to-azure-devops)
 - [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
-- [Azure DevOps Process CLI](https://github.com/danhellem/azure-devops-process-cli)
+- [CLI for Azure DevOps admin tasks](https://github.com/danhellem/azure-devops-admin-cli)
 - [Work item batch update samples](https://github.com/danhellem/workitem-batch-update-samples)
 
 ### 🦉Personal projects
