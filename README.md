@@ -23,10 +23,7 @@
       </td>    
       <td>
         <img src="https://store-images.s-microsoft.com/image/apps.45766.90bc905c-7e74-44bd-8e35-b6a66582227b.70681edc-518a-48c0-b3d1-3793746b3be4.4b202b3e-a046-4a2f-8d63-ccd79995f2bd.png" width="100px" />
-      </td>
-     <td>
-        <img src="https://docs.microsoft.com/answers/topics/25491/icon.html?t=168451" width="100px" />
-      </td> 
+      </td>    
   </tr>
 </table>
 
