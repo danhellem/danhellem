@@ -36,8 +36,9 @@
 
 ### 🦉Personal projects
 
-- [My App - Indentity Service](https://github.com/danhellem/myapp-identityservice)
+- [My App - Identity Service](https://github.com/danhellem/myapp-identityservice)
 - [My App - Admin Service](https://github.com/danhellem/myapp-adminservice)
+- [My App - User Service](https://github.com/danhellem/myapp-userservice)
 - [My App - Web UI](https://github.com/danhellem/myapp-web)
 
 ### ❄️ Other contributions
