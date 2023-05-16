@@ -1,4 +1,4 @@
-I am program manager at Microsoft working on the Azure DevOps product team. Previously sepnt time on product at GitHub and Azure IoT. Former developer and engineering director at several start-ups.
+I am program manager at Microsoft working on the Azure DevOps product team. Previously spent time on product at GitHub and Azure IoT. Former developer and engineering director at several start-ups.
 
 ### ⚒ Currently working in Microsoft Azure DevOps
 
