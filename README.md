@@ -1,3 +1,5 @@
+I am program manager working on the Azure DevOps product team. Previously product at @github, product at Azure IoT, developer, and engineering director at several start-ups.
+
 ### ⚒ Currently working in Microsoft Azure DevOps
 
 <table>
