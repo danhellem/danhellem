@@ -13,7 +13,7 @@ I am program manager at Microsoft working on the Azure DevOps product team. Prev
   </tr>
 </table>
 
-### 💻 Previously worked on Azure Digital Twins, Azure IoT Device SDKs, Azure Boards, and GitHub
+### 💻 Previously worked on Azure Digital Twins, Azure IoT Device SDKs, and GitHub
 
 <table>
   <tr>
