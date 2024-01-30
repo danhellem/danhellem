@@ -39,10 +39,7 @@ I am program manager at Microsoft working on the Azure DevOps product team. Prev
 
 ### 🦉Personal projects
 
-- [My App - Identity Service](https://github.com/danhellem/myapp-identityservice)
-- [My App - Admin Service](https://github.com/danhellem/myapp-adminservice)
-- [My App - User Service](https://github.com/danhellem/myapp-userservice)
-- [My App - Web UI](https://github.com/danhellem/myapp-web)
+- [The Golf Course Project](https://github.com/Golf-Course-Project)
 
 ### ❄️ Other contributions
 
