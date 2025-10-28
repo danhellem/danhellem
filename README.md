@@ -35,7 +35,7 @@ I am program manager at Microsoft working on the Azure DevOps product team. Prev
 - [Sync GitHub Pull Requests to Azure DevOps](https://github.com/danhellem/github-actions-pr-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/sync-pull-requests-to-azure-boards)
 - [Check for AB# link in GitHub Pull Request](https://github.com/danhellem/github-actions-pr-is-linked-to-work-item) | [GitHub Marketplace](https://github.com/marketplace/actions/azure-boards-check-for-ab)
 - [CLI for Azure DevOps admin tasks](https://github.com/danhellem/azure-devops-admin-cli)
-- [Work item batch update samples](https://github.com/danhellem/workitem-batch-update-samples)
+- [Azure DevOps MCP Server](https://github.com/microsoft/azure-devops-mcp)
 
 ### 🦉Personal projects
 
