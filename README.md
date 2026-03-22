@@ -1,4 +1,4 @@
-I am product manager at Microsoft working on the Azure DevOps product team. Previously spent time on product at GitHub and Azure IoT. Former developer and engineering director at several start-ups.
+I’m a product leader at Microsoft working on Azure DevOps. Previously, I worked in product at GitHub and Azure IoT. I started my career as a developer and later served as an engineering director at several startups
 
 ### ⚒ Currently working in Microsoft Azure DevOps
 
