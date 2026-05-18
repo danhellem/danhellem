@@ -19,16 +19,13 @@ I’m a product leader at Microsoft working on Azure DevOps. Previously, I worke
 ### 💻 Previously worked on Azure Digital Twins, Azure IoT Device SDKs, and GitHub
 
 <table>
-  <tr>
+  <tr>      
     <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1024px-Microsoft_logo.svg.png" width="100px" />
-      </td>    
-      <td>
-        <img src="https://github.com/danhellem/danhellem/blob/master/images/azure_dt.png" width="100px" />
-      </td>  
-      <td>
-        <img src="https://github.com/danhellem/danhellem/blob/master/images/octocat-1.png" width="100px" />
-      </td> 
+      <img src="https://github.com/danhellem/danhellem/blob/master/images/azure_dt.png" width="100px" />
+    </td>  
+    <td>
+      <img src="https://github.com/danhellem/danhellem/blob/master/images/octocat-1.png" width="100px" />
+    </td> 
   </tr>
 </table>
 
